@@ -1,5 +1,5 @@
 ### USAGE
-  https://github.com/o0TT0o/pipeline-usage-demo/libraried/jenkinsfile.docker
+  https://github.com/o0TT0o/pipeline-usage-demo/blob/main/libraried/jenkinsfile.docker
 
 ### REF
   https://stackoverflow.com/questions/59687013/using-a-dockerfile-with-jenkins-scripted-pipeline-syntax
