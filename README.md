@@ -44,13 +44,13 @@ Finished: SUCCESS
 # Lion
 ## TODO List
 ### docker
-[ ] withdocker
-[ ] docker build
-[ ] docker push
+[x] withdocker
+[x] docker build
+[x] docker push
 
 ### input
-[ ] parameters
-[ ] input request
+[x] parameters
+[x] input request
 
 ### cache
 [ ] stash
@@ -81,5 +81,30 @@ Finished: SUCCESS
 [ ] package
 [ ] upload
 [ ] scan
+
+### common
+[ ] discard
+[ ] clean WS
+[ ] agent
+[ ] parallel
+[ ] when
+[ ] options
+[ ] environment
+[ ] timeout
+[ ] credentials
+[ ] declarative
+[ ] scripted
+
+### trigger
+[ ] cron
+[ ] pollscm
+[ ] upstream
+[ ] when
+
+### martix
+https://www.jenkins.io/doc/book/pipeline/syntax/
+
+### unit test
+https://www.jenkins.io/doc/book/pipeline/development/#unit-test
 
 
