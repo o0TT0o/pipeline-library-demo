@@ -41,4 +41,45 @@ Hello, Dave.
 [Pipeline] End of Pipeline
 Finished: SUCCESS
 ```
+# Lion
+## TODO List
+### docker
+[ ] withdocker
+[ ] docker build
+[ ] docker push
+
+### input
+[ ] parameters
+[ ] input request
+
+### cache
+[ ] stash
+[ ] mount
+
+### kubernetes
+[ ] deploy
+ 
+### cloud
+[ ] aws-ci
+[ ] terrform
+
+### flow
+[ ] define
+[ ] switch
+[ ] nested
+
+### notify
+[ ] mail
+[ ] slack
+
+### deployment
+[ ] bludgreen
+[ ] canary
+
+### build
+[ ] compile
+[ ] package
+[ ] upload
+[ ] scan
+
 
