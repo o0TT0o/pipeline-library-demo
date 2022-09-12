@@ -107,4 +107,6 @@ https://www.jenkins.io/doc/book/pipeline/syntax/
 ### unit test
 https://www.jenkins.io/doc/book/pipeline/development/#unit-test
 
-
+### [x]lint
+https://www.youtube.com/watch?v=aFRjn_4nb-Q&list=PLKaiHc24qCTSnXaus2t4b71ihq9k649XS
+https://www.jenkins.io/doc/book/pipeline/development/#visualstudio-code-jenkins-pipeline-linter-connector
